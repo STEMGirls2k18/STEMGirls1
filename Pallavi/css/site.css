@@ -96,7 +96,6 @@
         .content-body{
             min-width: 400px;
         }
-
         @media (max-width: 1024px) {
             .main-container{
                 padding-top: 1%;
